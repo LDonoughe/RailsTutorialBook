@@ -14,3 +14,10 @@
 
 #Ignore Spring to prevent conflicts
 spring/*.pid
+
+# IDE settings
+.idea/
+
+# Ruby Version
+.ruby-version
+
